@@ -15,4 +15,8 @@ Derk Thomas
 Sheradin Martin
 Enrique Cabrera
 Taron Henry
+<<<<<<< Updated upstream
 Joe Thomas
+=======
+ This is the initial file. Alex will open this and begin making changes by adding his name five times after this paragraph. Then Clay will add his name seven times between Alex and Chandler. When he has committed, Alex will then commit his changes after Clay has committed his.
+>>>>>>> Stashed changes
